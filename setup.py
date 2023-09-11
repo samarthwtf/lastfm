@@ -8,7 +8,7 @@ setup(
 	long_description_content_type="text/markdown",
 	author="spread1337",
 	author_email="neon@flarebot.tech",
-	url="https://github.com/spread1337/lastfm.git",
+	url="https://github.com/spread1337/lastfm",
 	packages=['lastfm'],
 	install_requires=['aiohttp','discord','orjson'],
 	python_requires=">=3.6"
